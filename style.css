@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    width: 1400px;
+    height: 700px;
+    background: linear-gradient(to right, #fffc00, #ffffff, rgb(106, 106, 253)); 
+    margin: 0 auto;
+    padding: 50px;
+}
+
+img {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+button {
+    display: block;
+    background-color: green;
+    color: #ffffff;
+    padding: 15px;
+    border: 2px solid red;
+    margin-left: 10px;
+}
+
+h2 {
+    text-align: center;
+}
